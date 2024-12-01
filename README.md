@@ -68,7 +68,7 @@ python main.py
 
 - Vector Database: [Milvus](https://github.com/milvus-io/milvus)
 - Embedding Model: [Visualized-BGE](https://github.com/FlagOpen/FlagEmbedding/tree/master/research/visual_bge)
-- Frontend and Backend: [FastHTML](https://fastht.ml/)
+- Frontend and Backend: [FastHTML](https://fastht.ml/) and [Shadcn-ui](https://www.shad4fasthtml.com/)
 
 ## License
 
