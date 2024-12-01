@@ -1,0 +1,10 @@
+pymilvus
+timm
+einops
+ftfy
+peft
+tqdm
+fasthtml
+shad4fast
+transformers
+torchvision
