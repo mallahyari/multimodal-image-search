@@ -4,6 +4,8 @@
 
 This project is a web application that allows users to search for images based on a combination of image and text descriptions. Users can upload an image and can optinally provide a text instruction, which is processed by Visualized BGE multimodal model. Visualized-BGE, a universal multi-modal embedding model that encode multi-modal data in a variety of formats, whether it's purely text, solely image-based, or a combination of both. Milvus is used as the vector database to store and retrieve the embeddings.
 
+![](./demo.gif)
+
 ## Installation
 
 1. Clone the repository:
